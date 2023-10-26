@@ -1,3 +1,4 @@
+//http://127.0.0.1/php_Exam/api/user_input_api.php/
 <?php
 header("Access-Control-Allow-Methods: POST");
 include("../Config/user_config.php");
